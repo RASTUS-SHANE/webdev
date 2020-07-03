@@ -46,4 +46,18 @@ a{
  {
      background-color: brown;
  }
- 
+  #square
+  {
+      width: 100px;
+      height: 100px;
+      background-color: hotpink;
+      margin-top: auto;
+      border: 12px solid black;
+      margin-left: 11px;
+  }
+  .flex
+  {
+      display:flex;
+      flex-wrap: wrap;
+      flex-grow: 2;
+  }
